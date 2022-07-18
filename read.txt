@@ -1,0 +1,1 @@
+crtl+ shift+p change sensor for diffrent geolocation
